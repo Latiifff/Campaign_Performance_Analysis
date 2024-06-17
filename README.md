@@ -1,4 +1,5 @@
 # Unlocking Success with Data-Driven Marketing: Strategic Optimization for High-Impact Campaigns
+This repository documents the journey from identifying a business problem to developing and implementing a solution that transforms marketing data analytics capabilities. The goal is to share our approach, insights and results to inspire and guide similar initiatives.
 
 ## 🔍 Project Background
 Our previous manual analysis of marketing data proved inefficient. To address this, we developed a real-time dashboard that provides insights into Return on Marketing Investment (ROMI), Return on Ad Spend (ROAS), Gross Profit, and Average Order Value (AOV), significantly driving revenue growth.
