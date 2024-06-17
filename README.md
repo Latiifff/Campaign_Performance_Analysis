@@ -32,5 +32,7 @@ For detailed visualizations and further exploration of our data, please visit ou
 
 🔰 [Tableau Dashboard](https://lnkd.in/gCscPGjG)
 
-![Dashboard Page 1](relative/path/to/KPI%20Marketing.png)
+![Dashboard Page 1](KPI%20Marketing.png)
+![Dashboard Page 2](Funnel%20Analysis.png)
+
 
