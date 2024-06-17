@@ -29,6 +29,8 @@ Based on our findings, we recommend the following strategies:
 
 ## 📌 Documentation
 For detailed visualizations and further exploration of our data, please visit our Tableau dashboard:
+
 🔰 [Tableau Dashboard](https://lnkd.in/gCscPGjG)
 
-[Screenshot of Dashboard](https://example.com/path/to/your/image.png)
+![Dashboard Page 1](relative/path/to/KPI%20Marketing.png)
+
